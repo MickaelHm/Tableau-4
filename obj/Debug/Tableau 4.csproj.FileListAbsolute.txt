@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Tableau 4\Tableau 4\obj\Debug\Tableau 4.csprojAssemblyReference.cache
+C:\Users\Moi\source\repos\Tableau 4\Tableau 4\obj\Debug\Tableau 4.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Tableau 4\Tableau 4\bin\Debug\Tableau 4.exe.config
+C:\Users\Moi\source\repos\Tableau 4\Tableau 4\bin\Debug\Tableau 4.exe
+C:\Users\Moi\source\repos\Tableau 4\Tableau 4\bin\Debug\Tableau 4.pdb
+C:\Users\Moi\source\repos\Tableau 4\Tableau 4\obj\Debug\Tableau 4.exe
+C:\Users\Moi\source\repos\Tableau 4\Tableau 4\obj\Debug\Tableau 4.pdb
